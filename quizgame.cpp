@@ -1,4 +1,6 @@
-include <iostream>
+#include <iostream>
+#include <string>
+
 int main() {
 	int score = 0;
 	std::string questions[] = { "1: What shape is the earth?", "2: What is my preferred name?", "3: What programming language was used to make this?"};
